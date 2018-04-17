@@ -12,7 +12,7 @@ public class questions {
    public String[] getquestion_answer() {
 
 
-       int a = r.nextInt(4);
+       int a = r.nextInt(3);
 
        int b = r.nextInt(100);
        int c = r.nextInt(100);
